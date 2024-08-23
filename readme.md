@@ -6,9 +6,9 @@ This minimum reproduction attempts to load a React with Material UI elements fro
 
 ```sh
 
-git clone https://github.com/awatson1978/meteor-v3-atmosphere-react-pkg
+git clone https://github.com/awatson1978/meteor-v3-react-router-from-pkgs myapp
 
-cd meteor-v3-atmosphere-react-pkg
+cd myapp
 
 meteor npm install
 
